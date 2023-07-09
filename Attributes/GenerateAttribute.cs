@@ -1,5 +1,5 @@
 using System;
-namespace Ubunifu.DataAnnotations;
+namespace Ubunifu.Attributes;
 
 [AttributeUsage(AttributeTargets.Class, AllowMultiple = false)]
 public class GeneratedAttribute: Attribute {

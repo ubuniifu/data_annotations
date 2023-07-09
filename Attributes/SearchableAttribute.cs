@@ -1,3 +1,3 @@
 using System;
-namespace Ubunifu.DataAnnotations;
+namespace Ubunifu.Attributes;
 public class SearchableAttribute: Attribute {}
