@@ -1,5 +1,5 @@
 using System;
-namespace Ubunifu.DataAnnotations;
+namespace Ubunifu.Attributes;
 
 [AttributeUsage(AttributeTargets.Property, AllowMultiple = false)]
 public class PropertyAttribute: Attribute {
